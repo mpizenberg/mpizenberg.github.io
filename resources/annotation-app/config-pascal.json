@@ -1,0 +1,8 @@
+{ "classes":
+    [ { "category": "Person", "classes": [ "person" ] }
+    , { "category": "Animal", "classes": [ "bird", "cat", "cow", "dog", "horse", "sheep" ] }
+    , { "category": "Vehicle", "classes": [ "aeroplane", "bicycle", "boat", "bus", "car", "motorbike", "train" ] }
+    , { "category": "Indoor", "classes": [ "bottle", "chair", "dining table", "potted plant", "sofa", "tv/monitor" ] }
+    ]
+, "annotations": [ "point", "bbox", "stroke", "outline", "polygon" ]
+}
