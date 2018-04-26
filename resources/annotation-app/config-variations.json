@@ -1,0 +1,6 @@
+{ "classes": []
+, "annotations":
+    [ "bbox"
+    , { "type": "stroke", "variations": [ "fg", "bg" ] }
+    ]
+}
