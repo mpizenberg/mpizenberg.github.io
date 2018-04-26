@@ -1,0 +1,10 @@
+{ "classes":
+    [ "Class of level 1"
+    , { "category": "Category of level 1", "classes":
+        [ "Class of level 2"
+        , { "category": "Category of level 2", "classes": [ "Class of level 3" ]}
+        ]
+      }
+    ]
+, "annotations": [ "point", "bbox", "stroke", "outline", "polygon" ]
+}
