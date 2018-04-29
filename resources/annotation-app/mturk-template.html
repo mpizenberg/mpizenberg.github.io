@@ -1,0 +1,38 @@
+<div>
+	<input type="hidden" value="" name="annotation-data" id="annotation-data"/>
+	<style>html, body, .style-elements { height: 100% } #mturk_form { display: none }</style>
+	<script src="https://annotation-app.pizenberg.fr/elm-pep.js"></script>
+	<script src="https://annotation-app.pizenberg.fr/Main.js"></script>
+	<script charset="utf-8">
+		// Function returning the size of the container element for the app.
+		// In our case, the full layout viewport.
+		const layoutViewportSize = () => ({
+			width: document.documentElement.clientWidth,
+			height: document.documentElement.clientHeight
+		});
+		const containerSize = layoutViewportSize;
+
+		// The image to display
+		const img = {
+			width: ${img_width},
+			height: ${img_height},
+			url: "${img_url}"
+			// comment to prevent mturk templating system to merge those two '}'
+		};
+
+		// Set elm app flags
+		const flags = {
+			deviceSize: containerSize(),
+			mturkMode: true,
+			images: [img],
+			config: `{
+				"classes": [],
+				"annotations": [ "point", "bbox", "stroke", "outline", "polygon" ]
+			}`
+		};
+
+		// Start elm app.
+		const app = Elm.Main.fullscreen(flags);
+	</script>
+	<script src="https://annotation-app.pizenberg.fr/ports-mturk.js"></script>
+</div>
