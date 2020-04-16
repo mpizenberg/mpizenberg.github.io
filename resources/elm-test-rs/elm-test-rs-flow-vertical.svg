@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="262.99741mm"
-   height="512.62207mm"
-   viewBox="0 0 262.9974 512.6221"
+   width="257.27179mm"
+   height="476.5607mm"
+   viewBox="0 0 257.27178 476.56075"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -436,9 +436,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="303.15398"
-     inkscape:cy="539.49893"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="458.11017"
+     inkscape:cy="695.78085"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -467,7 +467,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-19.882318,-21.147801)">
+     transform="translate(-19.882318,-57.209156)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#edf4ec;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4667-6-4-4-4"
@@ -492,15 +492,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#fcefed;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4646"
-       width="261.99741"
-       height="112.4708"
+       width="256.23328"
+       height="99.641861"
        x="20.382318"
-       y="44.880219" />
+       y="57.709156" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#edf4ec;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4669"
-       width="258.14362"
-       height="203.57065"
+       width="256.25375"
+       height="203.57063"
        x="20.400352"
        y="189.37187" />
     <rect
@@ -521,66 +521,56 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:7.4083333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="38.754082"
-       y="63.086796"
+       y="76.315971"
        id="text4520"><tspan
          sodipodi:role="line"
          id="tspan4518"
          x="38.754082"
-         y="63.086796"
+         y="76.315971"
          style="font-size:8.46666622px;stroke-width:0.26458332px">elm-test-rs (Rust CLI app)</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="70.495132"
+         y="83.724304"
          style="stroke-width:0.26458332px"
          id="tspan4522" /><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="77.903465"
+         y="91.132637"
          style="stroke-width:0.26458332px"
          id="tspan4526">- Generate the list of test modules</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="85.311798"
+         y="98.54097"
          style="stroke-width:0.26458332px"
-         id="tspan4534">- Generate elm.json for the Runner.elm &amp; Reporter.elm</tspan><tspan
+         id="tspan4534">- Generate elm.json for the Runner.elm</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="92.720131"
+         y="105.9493"
          style="stroke-width:0.26458332px"
          id="tspan4536">- Compile all test files</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="100.12846"
+         y="113.35764"
          style="stroke-width:0.26458332px"
          id="tspan4538">- Find all tests in test files</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="107.5368"
+         y="120.76597"
          style="stroke-width:0.26458332px"
          id="tspan4548">- Generate the Runner.elm with all tests</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="114.94513"
+         y="128.1743"
          style="stroke-width:0.26458332px"
-         id="tspan3950">- Compile Runner.elm &amp; Reporter.elm into ElmMain.js</tspan><tspan
+         id="tspan3958">- Compile Runner.elm &amp; Reporter.elm into JS modules</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="122.35346"
-         style="stroke-width:0.26458332px"
-         id="tspan3956">- Encapsulate one ElmMain.js that start Elm.Runner in a Node module</tspan><tspan
-         sodipodi:role="line"
-         x="38.754082"
-         y="129.7618"
-         style="stroke-width:0.26458332px"
-         id="tspan3958">- Encapsulate one ElmMain.js that start Elm.Reporter in a Node module</tspan><tspan
-         sodipodi:role="line"
-         x="38.754082"
-         y="137.17012"
+         y="135.58264"
          style="stroke-width:0.26458332px"
          id="tspan4582">- Spawn supervisor.js (std::process::Command)</tspan><tspan
          sodipodi:role="line"
          x="38.754082"
-         y="144.57846"
+         y="142.99097"
          style="stroke-width:0.26458332px"
          id="tspan4115">- Watch for file changes (not implemented yet)</tspan></text>
     <text
@@ -603,7 +593,7 @@
          x="38.750622"
          y="219.92516"
          style="stroke-width:0.26458332px"
-         id="tspan995">- Start reporter (require(&quot;./reporter.js&quot;))</tspan><tspan
+         id="tspan995">- Start reporter</tspan><tspan
          sodipodi:role="line"
          x="38.750622"
          y="227.3335"
@@ -613,33 +603,17 @@
          x="38.750622"
          y="234.74182"
          style="stroke-width:0.26458332px"
-         id="tspan4596">- Dispatch &quot;Test id&quot; messages to runner workers</tspan><tspan
+         id="tspan4596">- Dispatch work (test ids) to runner workers</tspan><tspan
          sodipodi:role="line"
          x="38.750622"
          y="242.15016"
          style="stroke-width:0.26458332px"
-         id="tspan4600">- Transfer runner results to reporter</tspan><tspan
+         id="tspan4600">- Transfer test results from runners to reporter</tspan><tspan
          sodipodi:role="line"
          x="38.750622"
          y="249.55849"
          style="stroke-width:0.26458332px"
-         id="tspan4111">- When reporter finished, terminate runner workers</tspan><tspan
-         sodipodi:role="line"
-         x="38.750622"
-         y="256.96683"
-         style="stroke-width:0.26458332px"
-         id="tspan4113">and call the onReporterEndedCallback(...)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:7.4083333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="43.411041"
-       y="29.72471"
-       id="text7396"><tspan
-         sodipodi:role="line"
-         id="tspan7394"
-         x="43.411041"
-         y="29.72471"
-         style="font-size:11.28888893px;stroke-width:0.26458332px">Architecture of the elm-test-rs runner</tspan></text>
+         id="tspan4113">- When reporter finishes, terminate runner workers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:7.4083333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -808,7 +782,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1519-8-9)"
-       d="M 100.35695,354.00728 H 47.863271"
+       d="M 100.35695,359.29361 H 47.863271"
        id="path1497-7-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -822,7 +796,7 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path1454-2-1-8"
        cx="40.211308"
-       cy="354.12399"
+       cy="359.41037"
        r="3.1689084" />
     <text
        xml:space="preserve"
@@ -839,7 +813,7 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path1454-2-4-6"
        cx="106.95052"
-       cy="353.97552"
+       cy="359.2619"
        r="3.1689084" />
     <text
        xml:space="preserve"
@@ -856,12 +830,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:7.4083333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="44.284054"
-       y="347.69797"
+       y="352.98434"
        id="text1872-8-75"><tspan
          sodipodi:role="line"
          id="tspan1870-5-4"
          x="44.284054"
-         y="347.69797"
+         y="352.98434"
          style="stroke-width:0.26458332px">finishCallback</tspan></text>
     <text
        xml:space="preserve"
@@ -963,7 +937,7 @@
          style="stroke-width:0.26458332px">incoming port: receiveRunTest</tspan></text>
     <g
        id="g1310"
-       transform="matrix(0.26458333,0,0,0.26458333,241.9222,47.722984)">
+       transform="matrix(0.26458333,0,0,0.26458333,237.76446,60.952159)">
       <path
          id="path1296"
          d="M 71.05,23.68 C 44.99,23.68 23.78,44.9 23.78,70.95 23.78,97 45,118.22 71.05,118.22 97.1,118.22 118.32,97 118.32,70.95 118.32,44.9 97.1,23.68 71.05,23.68 Z m -0.07,4.2 a 3.1,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z M 78.1,33 a 38.27,38.27 0 0 1 26.2,18.66 l -3.67,8.28 c -0.63,1.43 0.02,3.11 1.44,3.75 l 7.06,3.13 a 38.27,38.27 0 0 1 0.08,6.64 h -3.93 c -0.39,0 -0.55,0.26 -0.55,0.64 v 1.8 c 0,4.24 -2.39,5.17 -4.49,5.4 -2,0.23 -4.21,-0.84 -4.49,-2.06 -1.18,-6.63 -3.14,-8.04 -6.24,-10.49 3.85,-2.44 7.85,-6.05 7.85,-10.87 0,-5.21 -3.57,-8.49 -6,-10.1 -3.42,-2.25 -7.2,-2.7 -8.22,-2.7 H 42.54 A 38.27,38.27 0 0 1 63.95,33 l 4.79,5.02 c 1.08,1.13 2.87,1.18 4,0.09 z M 33.9,56.02 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z m 74.15,0.14 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z m -68.29,0.5 h 5.42 V 81.1 H 34.24 A 38.27,38.27 0 0 1 33,66.49 l 6.7,-2.98 c 1.43,-0.64 2.08,-2.31 1.44,-3.74 z m 22.62,0.26 h 12.91 c 0.67,0 4.71,0.77 4.71,3.8 0,2.51 -3.1,3.41 -5.65,3.41 H 62.37 Z m 0,17.56 h 9.89 c 0.9,0 4.83,0.26 6.08,5.28 0.39,1.54 1.26,6.56 1.85,8.17 0.59,1.8 2.98,5.4 5.53,5.4 h 16.14 a 38.27,38.27 0 0 1 -3.54,4.1 l -6.57,-1.41 c -1.53,-0.33 -3.04,0.65 -3.37,2.18 l -1.56,7.28 A 38.27,38.27 0 0 1 54.92,105.33 L 53.36,98.05 C 53.03,96.52 51.53,95.54 50,95.87 l -6.43,1.38 a 38.27,38.27 0 0 1 -3.32,-3.92 h 31.27 c 0.35,0 0.59,-0.06 0.59,-0.39 V 81.88 c 0,-0.32 -0.24,-0.39 -0.59,-0.39 H 62.37 Z M 47.95,99.81 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z M 94,99.95 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z"
@@ -981,7 +955,7 @@
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon2"
-         points="161.649,152.782 231.514,82.916 91.783,82.916 " />
+         points="91.783,82.916 161.649,152.782 231.514,82.916 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon4"
@@ -997,19 +971,19 @@
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon8"
-         points="323.298,143.724 323.298,0 179.573,0 " />
+         points="179.573,0 323.298,143.724 323.298,0 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon10"
-         points="152.781,161.649 0,8.868 0,314.432 " />
+         points="0,314.432 152.781,161.649 0,8.868 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon12"
-         points="255.522,246.655 323.298,314.432 323.298,178.879 " />
+         points="323.298,178.879 255.522,246.655 323.298,314.432 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon14"
-         points="161.649,170.517 8.869,323.298 314.43,323.298 " />
+         points="314.43,323.298 161.649,170.517 8.869,323.298 " />
     </g>
     <g
        style="fill:#60b5cc;fill-opacity:1"
@@ -1018,7 +992,7 @@
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon2-9"
-         points="161.649,152.782 231.514,82.916 91.783,82.916 " />
+         points="91.783,82.916 161.649,152.782 231.514,82.916 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon4-3"
@@ -1034,23 +1008,23 @@
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon8-0"
-         points="323.298,143.724 323.298,0 179.573,0 " />
+         points="179.573,0 323.298,143.724 323.298,0 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon10-8"
-         points="152.781,161.649 0,8.868 0,314.432 " />
+         points="0,314.432 152.781,161.649 0,8.868 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon12-8"
-         points="255.522,246.655 323.298,314.432 323.298,178.879 " />
+         points="323.298,178.879 255.522,246.655 323.298,314.432 " />
       <polygon
          style="fill:#60b5cc;fill-opacity:1"
          id="polygon14-5"
-         points="161.649,170.517 8.869,323.298 314.43,323.298 " />
+         points="314.43,323.298 161.649,170.517 8.869,323.298 " />
     </g>
     <g
        id="g1460"
-       transform="matrix(0.12258438,0,0,0.12258438,214.78001,196.89705)">
+       transform="matrix(0.12258438,0,0,0.12258438,209.86632,199.16491)">
       <path
          id="path1404"
          d="m 218.647,270.93 c -1.46,0 -2.91,-0.383 -4.19,-1.12 l -13.337,-7.896 c -1.992,-1.114 -1.02,-1.508 -0.363,-1.735 2.656,-0.93 3.195,-1.14 6.03,-2.75 0.298,-0.17 0.688,-0.11 0.993,0.07 l 10.246,6.08 c 0.37,0.2 0.895,0.2 1.238,0 l 39.95,-23.06 c 0.37,-0.21 0.61,-0.64 0.61,-1.08 v -46.1 c 0,-0.46 -0.24,-0.87 -0.618,-1.1 l -39.934,-23.04 c -0.37,-0.22 -0.86,-0.22 -1.23,0 l -39.926,23.04 c -0.387,0.22 -0.633,0.65 -0.633,1.09 v 46.1 c 0,0.44 0.24,0.86 0.62,1.07 l 10.94,6.32 c 5.94,2.97 9.57,-0.53 9.57,-4.05 v -45.5 c 0,-0.65 0.51,-1.15 1.16,-1.15 h 5.06 c 0.63,0 1.15,0.5 1.15,1.15 v 45.52 c 0,7.92 -4.32,12.47 -11.83,12.47 -2.31,0 -4.13,0 -9.21,-2.5 l -10.48,-6.04 c -2.59,-1.5 -4.19,-4.3 -4.19,-7.29 v -46.1 c 0,-3 1.6,-5.8 4.19,-7.28 l 39.99,-23.07 c 2.53,-1.43 5.89,-1.43 8.4,0 l 39.94,23.08 c 2.58,1.49 4.19,4.28 4.19,7.28 v 46.1 c 0,2.99 -1.61,5.78 -4.19,7.28 l -39.94,23.07 c -1.28,0.74 -2.73,1.12 -4.21,1.12"
@@ -1193,13 +1167,31 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.80669022px;line-height:10.27447224px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36694545px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-136.37611"
-       y="286.09967"
+       y="290.33151"
        id="text4497-8-3"
        transform="scale(-0.80054412,1.2491504)"><tspan
          sodipodi:role="line"
          id="tspan4495-4-0"
          x="-136.37611"
-         y="286.09967"
+         y="290.33151"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.36694545px">&gt;</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path1454-2-4-6-6"
+       cx="106.95052"
+       cy="349.20776"
+       r="3.1689084" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.80669022px;line-height:10.27447224px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36694545px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-136.37611"
+       y="282.28271"
+       id="text4497-8-3-5"
+       transform="scale(-0.80054412,1.2491504)"><tspan
+         sodipodi:role="line"
+         id="tspan4495-4-0-6"
+         x="-136.37611"
+         y="282.28271"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.36694545px">&gt;</tspan></text>
   </g>
 </svg>
